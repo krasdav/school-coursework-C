@@ -1,4 +1,4 @@
-# C progs
+# C school projects
 
 Hello viewer,
 
